@@ -13,6 +13,7 @@ public static void main(String[] args) {
 		if(str.length()%10==0) {
 			
 			System.out.println("");
+			System.out.println("소스 일부 수정");
 		}
 	}
 	
